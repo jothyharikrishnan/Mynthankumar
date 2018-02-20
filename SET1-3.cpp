@@ -11,7 +11,7 @@ int main() {
       }
       else
       {
-      		cout<<"the given character  is constent";
+      		cout<<"the given character  is consonants";
       }
 	return 0;
 }
